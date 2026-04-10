@@ -1,3 +1,3 @@
 # My-Repository
 This is first repository
-Author-Saurabh Singh
+Author-Saurabh Singh Padiyar
